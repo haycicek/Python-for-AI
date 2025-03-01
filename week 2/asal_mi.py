@@ -11,4 +11,4 @@ def asal_mi(sayi):
 asal_mi(7)  # Çıktı: 7 bir asal sayıdır.
 asal_mi(10) # Çıktı: 10 bir asal sayı değildir.
 asal_mi(222222)
-asal_mi(771123)
+asal_mi(13)
